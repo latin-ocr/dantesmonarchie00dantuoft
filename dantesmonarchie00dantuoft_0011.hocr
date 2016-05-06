@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dantesmonarchie00dantuoft/dantesmonarchie00dantuoft_0011.png"; bbox 0 0 1690 2652; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 399 1338 533">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 81 399 1338 533">
+     <span class='ocr_line' id='line_1_1' title="bbox 216 399 1338 533; baseline 0.007 -16.033"><span class='ocrx_word' id='word_1_1' title='bbox 216 399 229 523; x_wconf 14' lang='grc' dir='ltr'>,μ</span> <span class='ocrx_word' id='word_1_2' title='bbox 321 406 704 531; x_wconf 52' lang='lat' dir='ltr'>Dant&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 742 409 1338 533; x_wconf 58' lang='lat' dir='ltr'>Ulmumbic-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 565 644 1059 771">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 565 644 1059 771">
+     <span class='ocr_line' id='line_1_2' title="bbox 565 644 1059 702; baseline 0.006 -11"><span class='ocrx_word' id='word_1_4' title='bbox 565 644 753 702; x_wconf 63' lang='lat' dir='ltr'>slberfesst</span> <span class='ocrx_word' id='word_1_5' title='bbox 795 654 876 693; x_wconf 68' lang='grc' dir='ltr'>μηδ</span> <span class='ocrx_word' id='word_1_6' title='bbox 919 656 1059 694; x_wconf 71' lang='lat' dir='ltr'>erflc&#39;irt</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 565 718 1059 771; baseline 0.004 -13"><span class='ocrx_word' id='word_1_7' title='bbox 565 718 634 758; x_wconf 85' lang='lat' dir='ltr'>mit</span> <span class='ocrx_word' id='word_1_8' title='bbox 664 718 770 758; x_wconf 78' lang='lat' dir='ltr'>einer</span> <span class='ocrx_word' id='word_1_9' title='bbox 799 719 1059 771; x_wconf 68' lang='lat' dir='ltr'>‹fiinfiihrung</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 495 891 1124 959">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 495 891 1124 959">
+     <span class='ocr_line' id='line_1_4' title="bbox 495 891 1124 959; baseline 0.008 -17"><span class='ocrx_word' id='word_1_10' title='bbox 495 895 567 942; x_wconf 84' lang='lat' dir='ltr'>Dr</span> <span class='ocrx_word' id='word_1_11' title='bbox 607 891 897 959; x_wconf 70' lang='grc' dir='ltr'><strong>(Σοηβαηῐίη</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 939 893 1124 946; x_wconf 69' lang='lat' dir='ltr'>§auter</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 633 1059 974 1103">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 633 1059 974 1103">
+     <span class='ocr_line' id='line_1_5' title="bbox 633 1059 974 1103; baseline 0.009 -10"><span class='ocrx_word' id='word_1_13' title='bbox 633 1061 701 1093; x_wconf 74' lang='lat' dir='ltr'>mit</span> <span class='ocrx_word' id='word_1_14' title='bbox 726 1062 807 1103; x_wconf 61' lang='grc' dir='ltr'>μυεῖ</span> <span class='ocrx_word' id='word_1_15' title='bbox 834 1059 974 1096; x_wconf 67' lang='lat' dir='ltr'>Bilbern</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 36 4 1690 2608">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 36 4 1690 2608">
+     <span class='ocr_line' id='line_1_6' title="bbox 36 4 1690 2608; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 36 4 1690 2608; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
